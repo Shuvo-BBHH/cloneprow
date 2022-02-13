@@ -22,3 +22,6 @@ $cd crack
 $chmod +x *
 
 $python2 noobmahdi.py
+
+
+![image](https://user-images.githubusercontent.com/98658558/153752460-531dcabc-69b1-49e6-882f-7d3fd79b261c.png)
